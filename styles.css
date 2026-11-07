@@ -1,1 +1,11 @@
-
+form{
+	display : flex;
+	flex-direction : column;
+	width : 40%	
+}
+	
+button{
+	margin-top : 15px ;
+	
+}
+	
